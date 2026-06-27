@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Banker",
+		"description": "Banker Resource Pack",
+		"uuid": "d0a3b931-319e-a82c-c021-5659c798cc6d",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Banker MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/banker"
+	},
+	"modules": [
+		{
+			"description": "Banker",
+			"type": "resources",
+			"uuid": "295e316b-9123-8740-a93f-1c8b86ac58a8",
+			"version": [1, 0, 0]
+		}
+	]
+}

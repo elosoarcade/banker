@@ -1,0 +1,7 @@
+{
+	"texture_data": {
+		"banker_spawn_egg": {
+			"textures": ["textures/items/banker_spawn_egg"]
+		}
+	}
+}

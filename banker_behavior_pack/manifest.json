@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Banker",
+		"description": "Banker Behavior Pack",
+		"uuid": "9294e440-9076-8b5f-1735-0c2dc76b0f95",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Banker MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/banker"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "33cbabae-ef48-b547-f5a3-055059f69913",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d0a3b931-319e-a82c-c021-5659c798cc6d",
+			"version": [1, 0, 0]
+		}
+	]
+}
