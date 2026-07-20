@@ -5,4 +5,4 @@ The banker will help to reward activities of the game that are not always reward
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
 
-<img width="1200" height="675" alt="banker-cover_20260626_180059_0000" src="https://github.com/user-attachments/assets/b6491147-ca70-424a-9517-40781012a31a" />
+<img width="1200" height="675" alt="banker-cover_20260720_141815_0000" src="https://github.com/user-attachments/assets/8e60e7a5-00f3-4295-862c-99c86db5a8be" />
