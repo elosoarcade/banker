@@ -4,7 +4,7 @@
 		"name": "Banker",
 		"description": "Banker Resource Pack",
 		"uuid": "d0a3b931-319e-a82c-c021-5659c798cc6d",
-		"version": [1, 0, 0],
+		"version": [2, 0, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Banker",
 			"type": "resources",
 			"uuid": "295e316b-9123-8740-a93f-1c8b86ac58a8",
-			"version": [1, 0, 0]
+			"version": [2, 0, 0]
 		}
 	]
 }
